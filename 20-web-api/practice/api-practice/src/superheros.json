@@ -1,0 +1,28 @@
+{
+    "superheros":[
+        {
+          "name": "Steve Rogers",
+          "alias": "Captain America",
+          "city": "Brooklyn",
+          "power": "Super Strength" 
+        }, 
+        { 
+          "name": "Bruce Wayne",
+          "alias": "Batman",
+          "city": "Gotham",
+          "power": "Rich" 
+        },
+        {
+          "name": "Clark Kent",
+          "alias": "Superman",
+          "city": "Metropolis",
+          "power": "Invulnerability" 
+        },
+        {
+          "name": "Stephen Strange",
+          "alias": "Dr. Strange",
+          "city": "Philadelphia",
+          "power": "Sorcerer Supreme" 
+        }
+    ]
+  }
