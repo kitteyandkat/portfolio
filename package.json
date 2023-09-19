@@ -38,19 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "eslint.options": {
-    "import/no-anonymous-default-export": [
-      "error",
-      {
-        "allowArray": true,
-        "allowArrowFunction": true,
-        "allowAnonymousClass": true,
-        "allowAnonymousFunction": true,
-        "allowCallExpression": true, 
-        "allowLiteral": true,
-        "allowObject": true
-      }
-    ]
   }
 }
