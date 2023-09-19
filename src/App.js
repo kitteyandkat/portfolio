@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Portfolio from "./Components/Portfolio"
 import "./App.css"
 
