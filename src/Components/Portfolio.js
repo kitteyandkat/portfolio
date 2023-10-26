@@ -1,13 +1,14 @@
 import React, { useState } from 'react';
 import AboutMe from './AboutMe';
 import Calculator from './Calculator';
+import MouseMastery from './MouseMastery';
 // import Contact from './Contact';
 import LandingPage from './LandingPage'
 import Snek from './Snek';
 import { Waypoint } from 'react-waypoint';
 
 // const Pages = [LandingPage, AboutMe, Snek, Calculator, Contact]
-const Pages = [LandingPage, AboutMe, Snek, Calculator]
+const Pages = [LandingPage, AboutMe, Snek, Calculator, MouseMastery]
 
 const Portfolio = () => {
     const [activePage, setActivePage] = useState(0) 
